@@ -27,4 +27,4 @@ Rado Muliadi PROFIL<br><br>Mahasiswa Program Studi Sistem Informasi yang memilik
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
