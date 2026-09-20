@@ -26,3 +26,5 @@ Rado Muliadi PROFIL<br><br>Mahasiswa Program Studi Sistem Informasi yang memilik
 [![](https://komarev.com/ghpvc/?username=khususthumbal-eng&icon=9&color=11)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
